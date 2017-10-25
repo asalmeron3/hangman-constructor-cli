@@ -1,0 +1,22 @@
+{
+  "name": "hangman-constructor-cli",
+  "version": "1.0.0",
+  "description": "### Description ```   This version of Hangman is played via a command-line interface (CLI).   The game is built with the following constructor functions:",
+  "main": "letter.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asalmeron3/hangman-constructor-cli.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asalmeron3/hangman-constructor-cli/issues"
+  },
+  "homepage": "https://github.com/asalmeron3/hangman-constructor-cli#readme"
+}
